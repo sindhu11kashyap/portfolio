@@ -51,8 +51,14 @@
 
 @media (max-width:575.98px){
     .home_text_wrapper h1{
-        font-size: 2.2rem;
-        line-height: 3rem;    
+        font-size: 1.6rem;
+    line-height: 2rem;
+    padding-bottom: 1rem;  
+    }
+
+    .home_text_wrapper_contact_me button {  
+        font-size: 17px;
+        padding: 6px 20px;
     }
 
 }
